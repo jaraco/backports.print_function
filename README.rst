@@ -1,12 +1,12 @@
-.. image:: https://img.shields.io/pypi/v/skeleton.svg
-   :target: https://pypi.org/project/skeleton
+.. image:: https://img.shields.io/pypi/v/backports.print_function.svg
+   :target: https://pypi.org/project/backports.print_function
 
-.. image:: https://img.shields.io/pypi/pyversions/skeleton.svg
+.. image:: https://img.shields.io/pypi/pyversions/backports.print_function.svg
 
-.. image:: https://img.shields.io/pypi/dm/skeleton.svg
+.. image:: https://img.shields.io/pypi/dm/backports.print_function.svg
 
-.. image:: https://img.shields.io/travis/jaraco/skeleton/master.svg
-   :target: http://travis-ci.org/jaraco/skeleton
+.. image:: https://img.shields.io/travis/jaraco/backports.print_function/master.svg
+   :target: http://travis-ci.org/jaraco/backports.print_function
 
 Add support for the Python 3.3 flush argument.
 
