@@ -21,7 +21,6 @@ params = dict(
 	long_description=long_description,
 	url="https://github.com/jaraco/" + name,
 	packages=setuptools.find_packages(),
-	namespace_packages=['backports'],
 	include_package_data=True,
 	python_requires='>=2.6',
 	install_requires=[
