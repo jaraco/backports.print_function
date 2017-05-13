@@ -1,3 +1,8 @@
+"""
+>>> print_('foo', flush=True)
+foo
+"""
+
 from __future__ import print_function
 
 import sys
